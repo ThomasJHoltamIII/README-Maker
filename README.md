@@ -9,6 +9,7 @@ This app makes README easier by using the command line
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
+- [Video](#video)
 - [Tests](#tests)
 - [Questions](#questions)
 
@@ -22,7 +23,7 @@ This project makes README faster than typing them out by hand
 Thomas Holtam III
 
 ## Video 
-<iframe src="https://drive.google.com/file/d/1vwcGM3xrvCjQUMkYlaDWiN58aMKjiLUc/preview" width="640" height="480" allow="autoplay"></iframe>
+https://drive.google.com/file/d/1vwcGM3xrvCjQUMkYlaDWiN58aMKjiLUc/view?usp=drive_link
 
 ## License
 [![License Badge](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
