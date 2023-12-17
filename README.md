@@ -9,6 +9,7 @@ This app makes README easier by using the command line
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
+- [Video](#video)
 - [Tests](#tests)
 - [Questions](#questions)
 
