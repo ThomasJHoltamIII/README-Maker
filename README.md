@@ -22,7 +22,7 @@ This project makes README faster than typing them out by hand
 Thomas Holtam III
 
 ## Video 
-https://drive.google.com/file/d/1vwcGM3xrvCjQUMkYlaDWiN58aMKjiLUc/preview
+https://drive.google.com/file/d/1vwcGM3xrvCjQUMkYlaDWiN58aMKjiLUc/view?usp=drive_link
 
 ## License
 [![License Badge](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
